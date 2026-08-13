@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "A list of plugins that you can use to make your life easier than ever!",
+      "items": [],
+      "title": "Utility Plugins"
+    },
+    {
+      "description": "I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace, and also to prevent confusion.",
+      "items": [],
+      "title": "Building Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Tools"
+    },
+    {
+      "description": "Here you can find list of good tutorials, handpicked by me.",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "You are welcome to contribute to this repository to make changes and/or add some interesting resources! Sharing is caring :D",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foot notes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:48.642Z",
+    "original_repository": "loominatrx/useful-roblox-resources",
+    "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
+    "enhanced_repository": "enhansome/enhansome-useful-roblox-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome useful roblox resources with stars"
+  }
+}
