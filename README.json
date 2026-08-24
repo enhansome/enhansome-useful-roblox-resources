@@ -1,7 +1,760 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "NOTE: Some of these libraries has its own GitHub repository. Be sure to read the license to know what you can do with it, or you'll ran into some serious issues!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dat.GUI (DevForum thread",
+          "description": ", GitHub repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303390751,
+            "language": "Lua",
+            "last_commit": "2022-11-06T19:23:40Z",
+            "owner": "nidorx",
+            "repo": "roblox-dat-gui",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documented on the thread, or here",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303390751,
+            "language": "Lua",
+            "last_commit": "2022-11-06T19:23:40Z",
+            "owner": "nidorx",
+            "repo": "roblox-dat-gui",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RbxGuiLib (DevForum thread",
+          "description": ", GitHub repo) EgoMoose (DevForum, GitHub) Another GUI library that you can use to make few common GUI components (like slider bars, checkboxes, you name it) that didn't present in Roblox created by the legend himself! Documented on the source code itself -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 286838616,
+            "language": "Lua",
+            "last_commit": "2021-01-13T23:05:12Z",
+            "owner": "EgoMoose",
+            "repo": "Rbx-Gui-Library",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColourUtils (DevForum thread",
+          "description": ", Github repo) csqrl (DevForum, GitHub) A color manipulation module. If you like messing with colors, you came to the right place. Docs -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 351969202,
+            "language": "Lua",
+            "last_commit": "2023-07-10T15:02:24Z",
+            "owner": "cxmeel",
+            "repo": "colour-utils",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProfileService (DevForum thread",
+          "description": ", GitHub repo) loleris (DevForum, GitHub) A known DataStore module that features session locking Docs If you're confused with the documentation, read the tutorial below this section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278895302,
+            "language": "Lua",
+            "last_commit": "2024-10-13T08:50:05Z",
+            "owner": "MadStudioRoblox",
+            "repo": "ProfileService",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplicaService (DevForum thread",
+          "description": ", GitHub repo) loleris (DevForum, GitHub) A selective state replication system. Docs Suitable with ProfileService. Read the tutorial below this section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 316775366,
+            "language": "Lua",
+            "last_commit": "2024-10-16T20:23:06Z",
+            "owner": "MadStudioRoblox",
+            "repo": "ReplicaService",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TopbarPlus (DevForum thread",
+          "description": ", GitHub repo) ForeverHD (DevForum, GitHub) TopbarPlus is a module enabling the construction of dynamic topbar icons. Docs -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326176984,
+            "language": "Lua",
+            "last_commit": "2025-09-17T15:56:25Z",
+            "owner": "1ForeverHD",
+            "repo": "TopbarPlus",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zblox164's Placement Service (DevForum thread",
+          "description": ", GitHub repo) zblox164 (DevForum Thread, GitHub) A simple placement system that you can use on your building game Documented on the thread, or here \"This module is made specifically for sandbox tycoons, not open world games.\"- zblox164",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365037728,
+            "language": "Lua",
+            "last_commit": "2025-05-12T12:11:17Z",
+            "owner": "zblox164",
+            "repo": "PlacementService",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berezaa's MoneyLib module",
+          "description": "berezaa (DevForum, GitHub) A simple module to convert numbers to readable ones. It's the one that Miner's Haven uses. - -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208537874,
+            "language": "Lua",
+            "last_commit": "2019-09-18T00:29:40Z",
+            "owner": "berezaa",
+            "repo": "minershaven",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t-util",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409940792,
+            "language": "Lua",
+            "last_commit": "2022-06-23T16:18:08Z",
+            "owner": "loominatrx",
+            "repo": "t-util",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409940792,
+            "language": "Lua",
+            "last_commit": "2022-06-23T16:18:08Z",
+            "owner": "loominatrx",
+            "repo": "t-util",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZonePlus (DevForum thread",
+          "description": ", GitHub repo) ForeverHD (DevForum, GitHub) ZonePlus utilises the new Spatial Query API and whitelists to effectively determine players, parts and custom items within a zone. Docs Read the example to get the idea of ZonePlus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325751403,
+            "language": "Lua",
+            "last_commit": "2024-07-04T04:15:43Z",
+            "owner": "1ForeverHD",
+            "repo": "ZonePlus",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nexus VR Character Model (DevForum thread",
+          "description": ", GitHub repo) TheNexusAvenger (DevForum, GitHub) An open-source VR system for allowing players to play as their Roblox character in first-person. - If you want your game to be VR-compatible, use this. Many VR games uses this library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318919277,
+            "language": "Luau",
+            "last_commit": "2025-06-05T22:08:03Z",
+            "owner": "TheNexusAvenger",
+            "repo": "Nexus-VR-Character-Model",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roblox Lua Promise",
+          "description": "evaera An implementation of Promise similar to Promise/A+. Docs -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207464284,
+            "language": "Lua",
+            "last_commit": "2024-08-06T01:11:01Z",
+            "owner": "evaera",
+            "repo": "roblox-lua-promise",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LayoutUtil (GitHub",
+          "description": ", DevForum thread) iiNemo This library was designed to aid developers in maintaining the aspect ratio of each child element within a ScrollingFrame, while automatically sizing the canvas. - -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289525552,
+            "language": "Lua",
+            "last_commit": "2022-11-17T20:33:20Z",
+            "owner": "ok-nick",
+            "repo": "LayoutUtil",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GuiCollisionService (DevForum thread",
+          "description": ", GitHub repo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 389100740,
+            "language": "Lua",
+            "last_commit": "2021-12-23T14:17:48Z",
+            "owner": "jaipack17",
+            "repo": "GuiCollisionService",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 389100740,
+            "language": "Lua",
+            "last_commit": "2021-12-23T14:17:48Z",
+            "owner": "jaipack17",
+            "repo": "GuiCollisionService",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataStore2 (GitHub repo",
+          "description": ", DevForum Thread) Kampfkarren (DevForum, Github) Open source module that uses berezaa’s method of saving data that prevents data loss, caches, and verifies data before saving. Docs It is quite popular, however some people prefer ProfileService for its session-locking feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106219585,
+            "language": "Lua",
+            "last_commit": "2023-06-27T20:10:45Z",
+            "owner": "Kampfkarren",
+            "repo": "Roblox",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EZ Camera Shake ported to ROBLOX (Github repo",
+          "description": ", DevForum Thread) Sleitnick (DevForum, Github) A Roblox port of EZ Camera Shake from Unity3D asset Documented on thread -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211531424,
+            "language": "Lua",
+            "last_commit": "2023-07-06T19:14:27Z",
+            "owner": "Sleitnick",
+            "repo": "RbxCameraShaker",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realism (Github Repo",
+          "description": ", DevForum Thread) MaximumADHD (DevForum, Github) A light-weight character enhancement system for better third-person and first-person POVs - -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317299886,
+            "language": "Lua",
+            "last_commit": "2026-06-23T21:04:06Z",
+            "owner": "MaximumADHD",
+            "repo": "Character-Realism",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searcher (GitHub repo",
+          "description": ", DevForum thread) xSwezan (DevForum, GitHub) Search for Instance with specific criteria WIP If you need a replacement of Roblox's FindFirstChild or even FindFirstChildOfClass, then this one is for you, I guess...Looking at the source code, it is easy to use as well!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584202129,
+            "language": "HTML",
+            "last_commit": "2023-01-06T23:33:47Z",
+            "owner": "xSwezan",
+            "repo": "Searcher",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "String+ (GitHub repo",
+          "description": ", DevForum thread)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 583923342,
+            "language": "Lua",
+            "last_commit": "2023-06-06T01:16:21Z",
+            "owner": "EgizianoEG",
+            "repo": "String-Plus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 583923342,
+            "language": "Lua",
+            "last_commit": "2023-06-06T01:16:21Z",
+            "owner": "EgizianoEG",
+            "repo": "String-Plus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Chat (GitHub repo",
+          "description": ", DevForum thread) EgizianoEG (DevForum, GitHub) A completely custom chat system with cool features such as easy-to-use API, custom emoji support, chat highlight support for readability. Docs Be sure to read the FAQs on the GitHub repo if you want to add your own custom emoji",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524105217,
+            "language": "Lua",
+            "last_commit": "2023-02-24T21:18:31Z",
+            "owner": "Cosmental",
+            "repo": "Social-Chat-v1",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iris (GitHub repo",
+          "description": ", DevForum thread)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214424140,
+            "language": "Luau",
+            "last_commit": "2026-04-18T15:30:52Z",
+            "owner": "Michael-48",
+            "repo": "Iris",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate mode GUI Library for Roblox, Based on Dear ImGui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22067521,
+            "language": "C++",
+            "last_commit": "2026-08-23T11:05:37Z",
+            "owner": "ocornut",
+            "repo": "imgui",
+            "stars": 75842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knit",
+          "description": "sleitnick Lightweight game framework for Roblox Docs If you want to organize your workflow, you came at the right place.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 277660877,
+            "language": "Luau",
+            "last_commit": "2024-07-31T13:18:03Z",
+            "owner": "Sleitnick",
+            "repo": "Knit",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RbxUtil",
+          "description": "sleitnick A collection of utility modules for Roblox. Docs Use Rojo to utilize each of these. If you desperately want one of them, standalone Knit already have them all.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 414775582,
+            "language": "Luau",
+            "last_commit": "2026-08-11T03:03:52Z",
+            "owner": "Sleitnick",
+            "repo": "RbxUtil",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roact",
+          "description": "Roblox A declarative UI library for Roblox Lua inspired by React. Docs This is really powerful if you are planning to make advanced UI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 109429829,
+            "language": "Lua",
+            "last_commit": "2023-12-13T00:17:58Z",
+            "owner": "Roblox",
+            "repo": "roact",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cmdr (GitHub repo",
+          "description": ", DevForum thread) evaera (DevForum, GitHub) A fully extensible and type safe command console for Roblox Developers Docs Versatile library for debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135337955,
+            "language": "Luau",
+            "last_commit": "2026-08-21T15:27:26Z",
+            "owner": "evaera",
+            "repo": "Cmdr",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warp (GitHub repo",
+          "description": ", DevForum thread) Eternity_Devs (DevForum, GitHub) Blazingly fast and powerful networking library Docs -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739334813,
+            "language": "Luau",
+            "last_commit": "2026-05-05T13:16:37Z",
+            "owner": "imezx",
+            "repo": "Warp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rain (GitHub repo",
+          "description": ", DevForum thread)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138954517,
+            "language": "Lua",
+            "last_commit": "2022-11-12T04:57:37Z",
+            "owner": "buildthomas",
+            "repo": "Rain",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138954517,
+            "language": "Lua",
+            "last_commit": "2022-11-12T04:57:37Z",
+            "owner": "buildthomas",
+            "repo": "Rain",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color (GitHub repo",
+          "description": ", DevForum thread) Author (DevForum, GitHub) Roblox Luau library for color management and manipulation, inspired by chroma.js. Docs -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381116756,
+            "language": "Lua",
+            "last_commit": "2024-01-04T20:00:21Z",
+            "owner": "Blupo",
+            "repo": "Color",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dial Display (GitHub repo",
+          "description": ", DevForum thread) ItsPlasmaRBLX (DevForum, GitHub) A clean multipurpose display Documented on the thread -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775871581,
+            "language": "Lua",
+            "last_commit": "2024-03-23T16:05:05Z",
+            "owner": "PlasmaGH",
+            "repo": "Dial-Display-LuaU",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBLXGUI (GitHub repo",
+          "description": ", DevForum thread) something786 (DevForum, GitHub) Studio-like GUI Library that emulates the standard \"studio\" look and feel No docs at the moment, please make a pull request if there is one Not to be confused with EgoMoose's RbxGuiLib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491350287,
+            "language": "Lua",
+            "last_commit": "2024-09-27T17:17:30Z",
+            "owner": "arch4ic",
+            "repo": "rblxguilib",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fiu (GitHub repo",
+          "description": ", DevForum thread)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536298691,
+            "language": "Lua",
+            "last_commit": "2026-03-08T09:34:23Z",
+            "owner": "rce-incorporated",
+            "repo": "Fiu",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536298691,
+            "language": "Lua",
+            "last_commit": "2026-03-08T09:34:23Z",
+            "owner": "rce-incorporated",
+            "repo": "Fiu",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Lua VM",
+          "description": "[ASense Team]https://www.roblox.com/groups/10496843 A secure Lua VM based on FiOne Documented on the thread Luau support is not implemented",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 200335280,
+            "language": "Lua",
+            "last_commit": "2026-08-12T06:19:17Z",
+            "owner": "SovereignSatellite",
+            "repo": "FiOne",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CustomClickDetector (GitHub repo",
+          "description": ", DevForum thread) commitblue (DevForum, GitHub) A custom implementation of Roblox's ClickDetector Docs See differences between Roblox's built-in ClickDetector and this library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 582122145,
+            "language": "Lua",
+            "last_commit": "2023-01-11T22:37:43Z",
+            "owner": "commitblue",
+            "repo": "customclickdetector",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LayoutUtil (GitHub repo",
+          "description": ", DevForum thread)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289525552,
+            "language": "Lua",
+            "last_commit": "2022-11-17T20:33:20Z",
+            "owner": "ok-nick",
+            "repo": "LayoutUtil",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289525552,
+            "language": "Lua",
+            "last_commit": "2022-11-17T20:33:20Z",
+            "owner": "ok-nick",
+            "repo": "LayoutUtil",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tag Editor (DevForum thread",
+              "description": ", GitHub repo) Sweetheartichoke This plugin allows you to create tags, and then assign them to objects in your game. You can also visualize and view a list of what objects have a given tag, and so on. Free! Roblox released their own implementation of Tag Editor integrated in Studio. It has the same functionallity as this plugin does, I'd recommend you to switch from this plugin to Roblox's built-in plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99076845,
+                "language": "Lua",
+                "last_commit": "2022-12-05T05:04:08Z",
+                "owner": "tiffany352",
+                "repo": "Roblox-Tag-Editor",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lucide Icon Picker",
+              "description": "7kayoh An icon picker for Lucide Icons. Free! Not all icons are available, as this plugin is still in alpha stage. Also, the Roblox library version is not working, get it here instead. If you want more icons, build the plugin yourself.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270722949,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:39:06Z",
+                "owner": "lucide-icons",
+                "repo": "lucide",
+                "stars": 24136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roact Visualizer",
+              "description": "pa00 Preview Roact tree in real-time. Free! NOT compatible with react-lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625021155,
+                "language": "Luau",
+                "last_commit": "2025-05-23T02:42:51Z",
+                "owner": "jsdotlua",
+                "repo": "react-lua",
+                "stars": 566
+              }
+            }
+          ],
+          "description": "A list of plugins that you can use to make your life easier than ever!",
+          "node_type": "group",
+          "title": "Utility Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Axis Indicator (GitHub repo",
+              "description": ", DevForum thread) DonKingFrog (DevForum, GitHub) Better selector inspired by Blender, a 3D modeling software. Free! Sleek UI, check it out",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754054301,
+                "language": null,
+                "last_commit": "2024-02-07T10:54:39Z",
+                "owner": "DonKingFrog",
+                "repo": "Axis-Indicator",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace, and also to prevent confusion.",
+          "node_type": "group",
+          "title": "Building Plugins"
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCloudTools (DevForum thread",
+          "description": ", GitHub repo) Skrateboard (DevForum, GitHub) A desktop application for Windows and MacOS (if you are on Linux, you have to compile it yourself, unfortunately) that allows you to interact with Roblox’s Open Cloud API. This means you can edit DataStores and publish contents with MessagingService outside of Roblox environment!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491755511,
+            "language": "C++",
+            "last_commit": "2025-04-12T02:17:43Z",
+            "owner": "jlwitthuhn",
+            "repo": "OpenCloudTools",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelFix (DevForum thread",
+          "description": ", GitHub repo) Corecii (DevForum, GitHub) Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157935046,
+            "language": "JavaScript",
+            "last_commit": "2018-11-17T00:36:15Z",
+            "owner": "Corecii",
+            "repo": "Transparent-Pixel-Fix",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Community Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:33:32.309Z",
+    "last_updated": "2026-08-24T14:40:19.215Z",
     "original_repository": "loominatrx/useful-roblox-resources",
     "original_repository_id": 500142157,
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
