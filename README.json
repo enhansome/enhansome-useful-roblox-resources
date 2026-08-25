@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "loominatrx/t-util",
           "description": null,
           "children": [],
           "repo_info": {
@@ -180,7 +180,7 @@
             "last_commit": "2024-07-04T04:15:43Z",
             "owner": "1ForeverHD",
             "repo": "ZonePlus",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-06-05T22:08:03Z",
             "owner": "TheNexusAvenger",
             "repo": "Nexus-VR-Character-Model",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "jaipack17/GuiCollisionService",
           "description": null,
           "children": [],
           "repo_info": {
@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "EgizianoEG/String-Plus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T11:05:37Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75844
+            "stars": 75854
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-11T03:03:52Z",
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-21T15:27:26Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 518
+            "stars": 519
           }
         },
         {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "buildthomas/Rain",
           "description": null,
           "children": [],
           "repo_info": {
@@ -560,7 +560,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "rce-incorporated/Fiu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -620,7 +620,7 @@
         },
         {
           "node_type": "item",
-          "title": "Docs",
+          "title": "ok-nick/LayoutUtil",
           "description": null,
           "children": [],
           "repo_info": {
@@ -665,10 +665,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:39:06Z",
+                "last_commit": "2026-08-24T22:28:37Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24138
+                "stars": 24150
               }
             },
             {
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:46:13.060Z",
+    "last_updated": "2026-08-25T06:35:11.380Z",
     "original_repository": "loominatrx/useful-roblox-resources",
     "original_repository_id": 500142157,
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
