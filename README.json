@@ -105,7 +105,7 @@
             "last_commit": "2025-09-17T15:56:25Z",
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T11:05:37Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75854
+            "stars": 75858
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2024-07-31T13:18:03Z",
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 624
+            "stars": 625
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-21T15:27:26Z",
+            "last_commit": "2026-08-25T13:16:13Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 519
+            "stars": 520
           }
         },
         {
@@ -665,10 +665,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:28:37Z",
+                "last_commit": "2026-08-25T15:34:33Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24150
+                "stars": 24160
               }
             },
             {
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:11.380Z",
+    "last_updated": "2026-08-25T17:45:04.926Z",
     "original_repository": "loominatrx/useful-roblox-resources",
     "original_repository_id": 500142157,
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
