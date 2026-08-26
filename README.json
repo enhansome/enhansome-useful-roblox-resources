@@ -105,7 +105,7 @@
             "last_commit": "2025-09-17T15:56:25Z",
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 235
+            "stars": 237
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T11:05:37Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75858
+            "stars": 75879
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-11T03:03:52Z",
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2023-12-13T00:17:58Z",
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625
+            "stars": 624
           }
         },
         {
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 135337955,
             "language": "Luau",
-            "last_commit": "2026-08-25T13:16:13Z",
+            "last_commit": "2026-08-26T13:17:38Z",
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 520
@@ -555,7 +555,7 @@
             "last_commit": "2026-03-08T09:34:23Z",
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-03-08T09:34:23Z",
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-12T06:19:17Z",
             "owner": "SovereignSatellite",
             "repo": "FiOne",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -665,10 +665,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T15:34:33Z",
+                "last_commit": "2026-08-26T16:29:55Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24160
+                "stars": 24183
               }
             },
             {
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:45:04.926Z",
+    "last_updated": "2026-08-26T19:19:11.718Z",
     "original_repository": "loominatrx/useful-roblox-resources",
     "original_repository_id": 500142157,
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
