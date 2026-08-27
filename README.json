@@ -75,7 +75,7 @@
             "last_commit": "2024-10-13T08:50:05Z",
             "owner": "MadStudioRoblox",
             "repo": "ProfileService",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2023-06-27T20:10:45Z",
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 385
+            "stars": 386
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T11:05:37Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75879
+            "stars": 75889
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-26T13:17:38Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 520
+            "stars": 519
           }
         },
         {
@@ -665,10 +665,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:29:55Z",
+                "last_commit": "2026-08-26T19:50:13Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24183
+                "stars": 24198
               }
             },
             {
@@ -754,9 +754,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:11.718Z",
-    "original_repository": "loominatrx/useful-roblox-resources",
-    "original_repository_id": 500142157,
+    "last_updated": "2026-08-27T12:12:30.641Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 500142157,
+      "language": null,
+      "last_commit": "2024-06-18T12:53:46Z",
+      "owner": "loominatrx",
+      "repo": "useful-roblox-resources",
+      "stars": 113
+    },
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
     "enhanced_repository": "enhansome/enhansome-useful-roblox-resources",
     "enhanced_repository_description": null,
