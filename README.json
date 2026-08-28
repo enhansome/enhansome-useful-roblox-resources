@@ -390,7 +390,7 @@
             "last_commit": "2026-08-23T11:05:37Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75889
+            "stars": 75893
           }
         },
         {
@@ -665,10 +665,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:50:13Z",
+                "last_commit": "2026-08-27T18:40:51Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24198
+                "stars": 24208
               }
             },
             {
@@ -746,7 +746,7 @@
             "last_commit": "2018-11-17T00:36:15Z",
             "owner": "Corecii",
             "repo": "Transparent-Pixel-Fix",
-            "stars": 94
+            "stars": 95
           }
         }
       ],
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:30.641Z",
+    "last_updated": "2026-08-28T01:29:14.197Z",
     "original_repository_info": {
       "archived": false,
       "id": 500142157,
