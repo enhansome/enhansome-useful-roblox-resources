@@ -620,7 +620,7 @@
             "open_issues": 1239,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75920,
+            "stars": 75941,
             "topics": [
               "api",
               "cplusplus",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T20:23:07Z",
-                "open_issues": 523,
+                "last_commit": "2026-08-29T07:14:40Z",
+                "open_issues": 521,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24228,
+                "stars": 24229,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:02.956Z",
+    "last_updated": "2026-08-29T19:44:11.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
