@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight graphical user interface and controller library that allows you to easily manipulate variables and fire functions on the fly, inspired by the venerable dat-gui js.",
+            "homepage": null,
             "id": 303390751,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-11-06T19:23:40Z",
+            "open_issues": 1,
             "owner": "nidorx",
             "repo": "roblox-dat-gui",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight graphical user interface and controller library that allows you to easily manipulate variables and fire functions on the fly, inspired by the venerable dat-gui js.",
+            "homepage": null,
             "id": 303390751,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-11-06T19:23:40Z",
+            "open_issues": 1,
             "owner": "nidorx",
             "repo": "roblox-dat-gui",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library of common UI components for Roblox UI",
+            "homepage": null,
             "id": 286838616,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-01-13T23:05:12Z",
+            "open_issues": 0,
             "owner": "EgoMoose",
             "repo": "Rbx-Gui-Library",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -58,12 +73,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Colour manipulation library for Roblox",
+            "homepage": "https://csqrl.github.io/colour-utils/",
             "id": 351969202,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-07-10T15:02:24Z",
+            "open_issues": 1,
             "owner": "cxmeel",
             "repo": "colour-utils",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "color",
+              "conversion",
+              "roact",
+              "roblox",
+              "roblox-lua",
+              "roblox-rojo",
+              "roblox-ts",
+              "robloxdev",
+              "robloxlua",
+              "rojo",
+              "typescript",
+              "ui",
+              "utility",
+              "wally"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal session-locked savable table API",
+            "homepage": "https://madstudioroblox.github.io/ProfileService/",
             "id": 278895302,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-13T08:50:05Z",
+            "open_issues": 13,
             "owner": "MadStudioRoblox",
             "repo": "ProfileService",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -90,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roblox state replication system",
+            "homepage": "https://madstudioroblox.github.io/ReplicaService/",
             "id": 316775366,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-16T20:23:06Z",
+            "open_issues": 5,
             "owner": "MadStudioRoblox",
             "repo": "ReplicaService",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -106,12 +151,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Construct dynamic and intuitive topbar icons. Enhance the appearance and behaviour of these icons with features such as themes, dropdowns and menus.",
+            "homepage": "https://devforum.roblox.com/t/topbarplus/1017485",
             "id": 326176984,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-17T15:56:25Z",
+            "open_issues": 44,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "icons",
+              "lua",
+              "roblox",
+              "themes",
+              "topbar"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -122,12 +178,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Placement Service Official Repository.",
+            "homepage": "https://zblox164.github.io/PlacementService/",
             "id": 365037728,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-12T12:11:17Z",
+            "open_issues": 2,
             "owner": "zblox164",
             "repo": "PlacementService",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "game-development",
+              "placement",
+              "placement-service",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -138,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minershaven.rbxl",
+            "homepage": "https://www.roblox.com/games/258258996/Miners-Haven",
             "id": 208537874,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-18T00:29:40Z",
+            "open_issues": 2,
             "owner": "berezaa",
             "repo": "minershaven",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -154,12 +225,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "table utility for Lua and Luau.",
+            "homepage": null,
             "id": 409940792,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-23T16:18:08Z",
+            "open_issues": 0,
             "owner": "loominatrx",
             "repo": "t-util",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "lua",
+              "lua-table",
+              "luau",
+              "table",
+              "util",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -170,12 +253,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "table utility for Lua and Luau.",
+            "homepage": null,
             "id": 409940792,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-23T16:18:08Z",
+            "open_issues": 0,
             "owner": "loominatrx",
             "repo": "t-util",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "lua",
+              "lua-table",
+              "luau",
+              "table",
+              "util",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -186,12 +281,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Construct dynamic zones that utilise region checking, raycasting and the new BasePart.CanTouch property to effectively determine players and parts within their boundaries.",
+            "homepage": "https://devforum.roblox.com/t/zone/1017701",
             "id": 325751403,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-07-04T04:15:43Z",
+            "open_issues": 37,
             "owner": "1ForeverHD",
             "repo": "ZonePlus",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "area",
+              "detection",
+              "lua",
+              "region3",
+              "roblox",
+              "touched",
+              "zones"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -202,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maps Roblox characters to the VR inputs of players.",
+            "homepage": null,
             "id": 318919277,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2025-06-05T22:08:03Z",
+            "open_issues": 11,
             "owner": "TheNexusAvenger",
             "repo": "Nexus-VR-Character-Model",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -218,12 +331,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promise implementation for Roblox",
+            "homepage": "https://eryn.io/roblox-lua-promise/",
             "id": 207464284,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-08-06T01:11:01Z",
+            "open_issues": 14,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "lua",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -234,12 +355,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Luau library for managing UILayouts",
+            "homepage": null,
             "id": 289525552,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-17T20:33:20Z",
+            "open_issues": 2,
             "owner": "ok-nick",
             "repo": "LayoutUtil",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "game",
+              "library",
+              "lua",
+              "luau",
+              "plugin",
+              "roblox",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -250,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "easy to use gui collision module for roblox 2 dimensional game development",
+            "homepage": null,
             "id": 389100740,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-12-23T14:17:48Z",
+            "open_issues": 5,
             "owner": "jaipack17",
             "repo": "GuiCollisionService",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -266,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "easy to use gui collision module for roblox 2 dimensional game development",
+            "homepage": null,
             "id": 389100740,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-12-23T14:17:48Z",
+            "open_issues": 5,
             "owner": "jaipack17",
             "repo": "GuiCollisionService",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -282,12 +426,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts and stuff I wrote for Roblox. Documentation is little to none as these are just stuff I took from my game that I thought I could share.",
+            "homepage": "https://kampfkarren.github.io/Roblox/",
             "id": 106219585,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
+            "open_issues": 141,
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "lua",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -298,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camera shake effects for Roblox games",
+            "homepage": null,
             "id": 211531424,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-07-06T19:14:27Z",
+            "open_issues": 3,
             "owner": "Sleitnick",
             "repo": "RbxCameraShaker",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -314,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible character enhancement system for Roblox.",
+            "homepage": null,
             "id": 317299886,
             "language": "Lua",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-23T21:04:06Z",
+            "open_issues": 9,
             "owner": "MaximumADHD",
             "repo": "Character-Realism",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -330,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search for Instances easily!",
+            "homepage": null,
             "id": 584202129,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-01-06T23:33:47Z",
+            "open_issues": 0,
             "owner": "xSwezan",
             "repo": "Searcher",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -346,12 +513,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library that provides extended functionality for working with strings in Lua, beyond what is available in the standard library.",
+            "homepage": "https://EgizianoEG.Github.io/String-Plus",
             "id": 583923342,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-06-06T01:16:21Z",
+            "open_issues": 1,
             "owner": "EgizianoEG",
             "repo": "String-Plus",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "lua",
+              "luau",
+              "roblox",
+              "roblox-lua",
+              "string-manipulation",
+              "strings"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -362,12 +541,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library that provides extended functionality for working with strings in Lua, beyond what is available in the standard library.",
+            "homepage": "https://EgizianoEG.Github.io/String-Plus",
             "id": 583923342,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-06-06T01:16:21Z",
+            "open_issues": 1,
             "owner": "EgizianoEG",
             "repo": "String-Plus",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "lua",
+              "luau",
+              "roblox",
+              "roblox-lua",
+              "string-manipulation",
+              "strings"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -378,12 +569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Social Chat is an open sourced Roblox Chat engine created by @Cosmental",
+            "homepage": null,
             "id": 524105217,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-24T21:18:31Z",
+            "open_issues": 2,
             "owner": "Cosmental",
             "repo": "Social-Chat-v1",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -394,12 +590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iris is an Immediate-Mode GUI Library for Roblox for creating debug and visualisation UI and tools and based on Dear ImGui.",
+            "homepage": "https://sirmallard.github.io/Iris/",
             "id": 1214424140,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-04-18T15:30:52Z",
+            "open_issues": 0,
             "owner": "Michael-48",
             "repo": "Iris",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -410,12 +611,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+            "homepage": null,
             "id": 22067521,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:40:44Z",
+            "open_issues": 1239,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75917
+            "stars": 75920,
+            "topics": [
+              "api",
+              "cplusplus",
+              "framework",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gui",
+              "imgui",
+              "immediate-gui",
+              "library",
+              "multi-platform",
+              "native",
+              "toolkit",
+              "tools",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -426,12 +648,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight game framework for Roblox",
+            "homepage": "https://sleitnick.github.io/Knit/",
             "id": 277660877,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2024-07-31T13:18:03Z",
+            "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "framework",
+              "game",
+              "library",
+              "lua",
+              "luau",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -442,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of utility modules for Roblox.",
+            "homepage": "https://sleitnick.github.io/RbxUtil/",
             "id": 414775582,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-08-11T03:03:52Z",
+            "open_issues": 47,
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 458
+            "stars": 458,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -458,12 +697,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A view management library for Roblox Lua similar to React",
+            "homepage": "https://roblox.github.io/roact",
             "id": 109429829,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-13T00:17:58Z",
+            "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625
+            "stars": 625,
+            "topics": [
+              "lua",
+              "react",
+              "roblox",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -474,12 +723,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible command console for Roblox developers",
+            "homepage": "https://eryn.io/Cmdr/",
             "id": 135337955,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:17:38Z",
+            "open_issues": 15,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 519
+            "stars": 519,
+            "topics": [
+              "lua",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -490,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rapidly-fast & powerful networking library.",
+            "homepage": "https://imezx.github.io/Warp/",
             "id": 739334813,
             "language": "Luau",
+            "license": "MIT",
             "last_commit": "2026-05-05T13:16:37Z",
+            "open_issues": 0,
             "owner": "imezx",
             "repo": "Warp",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -506,12 +768,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rain effect simulation for Roblox games",
+            "homepage": null,
             "id": 138954517,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-12T04:57:37Z",
+            "open_issues": 2,
             "owner": "buildthomas",
             "repo": "Rain",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "game",
+              "rain",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -522,12 +793,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rain effect simulation for Roblox games",
+            "homepage": null,
             "id": 138954517,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-12T04:57:37Z",
+            "open_issues": 2,
             "owner": "buildthomas",
             "repo": "Rain",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "game",
+              "rain",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -538,12 +818,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Roblox Luau library for color management and manipulation",
+            "homepage": "https://blupo.github.io/Color",
             "id": 381116756,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-01-04T20:00:21Z",
+            "open_issues": 0,
             "owner": "Blupo",
             "repo": "Color",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "color",
+              "roblox"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -554,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple \"dial\" display module written in LuaU for Roblox Studio.",
+            "homepage": null,
             "id": 775871581,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-23T16:05:05Z",
+            "open_issues": 0,
             "owner": "PlasmaGH",
             "repo": "Dial-Display-LuaU",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -570,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "easy to use gui elements for plugin widgets",
+            "homepage": null,
             "id": 491350287,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-27T17:17:30Z",
+            "open_issues": 0,
             "owner": "arch4ic",
             "repo": "rblxguilib",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -586,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luau bytecode interpreter for Luau",
+            "homepage": null,
             "id": 536298691,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-08T09:34:23Z",
+            "open_issues": 2,
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -602,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luau bytecode interpreter for Luau",
+            "homepage": null,
             "id": 536298691,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-08T09:34:23Z",
+            "open_issues": 2,
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -618,12 +926,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lua 5.1 bytecode interpreter, in Lua",
+            "homepage": "https://github.com/SovereignSatellite/Fin",
             "id": 200335280,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-12T06:19:17Z",
+            "open_issues": 0,
             "owner": "SovereignSatellite",
             "repo": "FiOne",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "interpreter",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -634,12 +950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a custom implementation of roblox's click detectors.",
+            "homepage": "https://commitblue.github.io/customclickdetector/",
             "id": 582122145,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-01-11T22:37:43Z",
+            "open_issues": 0,
             "owner": "commitblue",
             "repo": "customclickdetector",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -650,12 +971,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Luau library for managing UILayouts",
+            "homepage": null,
             "id": 289525552,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-17T20:33:20Z",
+            "open_issues": 2,
             "owner": "ok-nick",
             "repo": "LayoutUtil",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "game",
+              "library",
+              "lua",
+              "luau",
+              "plugin",
+              "roblox",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -666,12 +1000,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Luau library for managing UILayouts",
+            "homepage": null,
             "id": 289525552,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-17T20:33:20Z",
+            "open_issues": 2,
             "owner": "ok-nick",
             "repo": "LayoutUtil",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "game",
+              "library",
+              "lua",
+              "luau",
+              "plugin",
+              "roblox",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         }
@@ -690,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A plugin for manipulating CollectionService in Roblox Studio.",
+                "homepage": "https://devforum.roblox.com/t/tag-editor-plugin/101465",
                 "id": 99076845,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-05T05:04:08Z",
+                "open_issues": 22,
                 "owner": "tiffany352",
                 "repo": "Roblox-Tag-Editor",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:04.328Z"
             },
@@ -706,12 +1058,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+                "homepage": "https://lucide.dev",
                 "id": 270722949,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:23:07Z",
+                "open_issues": 523,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24226
+                "stars": 24228,
+                "topics": [
+                  "feather-icons",
+                  "figma",
+                  "icons",
+                  "react",
+                  "svg",
+                  "svg-icons",
+                  "svgs",
+                  "ui-components",
+                  "ui-design",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:58:04.328Z"
             },
@@ -722,12 +1090,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.",
+                "homepage": "https://react.luau.page",
                 "id": 625021155,
                 "language": "Luau",
+                "license": "MIT",
                 "last_commit": "2025-05-23T02:42:51Z",
+                "open_issues": 20,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "lua",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T00:58:04.328Z"
             }
@@ -745,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a repository for all Axis Indicator source/stylesheets.",
+                "homepage": null,
                 "id": 754054301,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-07T10:54:39Z",
+                "open_issues": 0,
                 "owner": "DonKingFrog",
                 "repo": "Axis-Indicator",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:04.328Z"
             }
@@ -772,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bobox",
+            "homepage": null,
             "id": 491755511,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-12T02:17:43Z",
+            "open_issues": 0,
             "owner": "jlwitthuhn",
             "repo": "OpenCloudTools",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         },
@@ -788,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Changes black transparent pixels to match the nearest color for proper blending.",
+            "homepage": null,
             "id": 157935046,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-17T00:36:15Z",
+            "open_issues": 4,
             "owner": "Corecii",
             "repo": "Transparent-Pixel-Fix",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
         }
@@ -802,15 +1193,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:04.328Z",
+    "last_updated": "2026-08-29T04:58:02.956Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of useful Roblox development resources for your personal and team project.",
+      "homepage": "https://loominatrx.github.io/useful-roblox-resources/",
       "id": 500142157,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2024-06-18T12:53:46Z",
+      "open_issues": 2,
       "owner": "loominatrx",
       "repo": "useful-roblox-resources",
-      "stars": 113
+      "stars": 113,
+      "topics": [
+        "awesome-list",
+        "hacktoberfest",
+        "luau",
+        "roblox",
+        "roblox-development",
+        "roblox-library",
+        "roblox-studio"
+      ]
     },
     "original_repository_sha": "4d86a5cf80317728a29e35c517dda7489251fd13",
     "enhanced_repository": "enhansome/enhansome-useful-roblox-resources",
