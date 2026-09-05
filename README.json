@@ -432,7 +432,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 144,
+            "open_issues": 145,
             "owner": "Kampfkarren",
             "repo": "Roblox",
             "stars": 391,
@@ -459,7 +459,7 @@
             "open_issues": 3,
             "owner": "Sleitnick",
             "repo": "RbxCameraShaker",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -617,10 +617,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-04T10:39:22Z",
-            "open_issues": 1231,
+            "open_issues": 1232,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76065,
+            "stars": 76080,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 16,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "lua",
               "roblox"
@@ -1064,10 +1064,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T15:42:04Z",
-                "open_issues": 497,
+                "open_issues": 498,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24358,
+                "stars": 24362,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:34:03.788Z",
+    "last_updated": "2026-09-05T19:01:28.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
