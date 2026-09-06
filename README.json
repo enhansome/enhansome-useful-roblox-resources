@@ -160,7 +160,7 @@
             "open_issues": 44,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "icons",
               "lua",
@@ -620,7 +620,7 @@
             "open_issues": 1232,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76080,
+            "stars": 76100,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 16,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 523,
+            "stars": 524,
             "topics": [
               "lua",
               "roblox"
@@ -752,7 +752,7 @@
             "id": 739334813,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-05-05T13:16:37Z",
+            "last_commit": "2026-09-06T05:04:03Z",
             "open_issues": 0,
             "owner": "imezx",
             "repo": "Warp",
@@ -1067,7 +1067,7 @@
                 "open_issues": 498,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24362,
+                "stars": 24378,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1099,7 +1099,7 @@
                 "open_issues": 20,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 567,
+                "stars": 568,
                 "topics": [
                   "lua",
                   "react"
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:01:28.008Z",
+    "last_updated": "2026-09-06T19:09:24.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
