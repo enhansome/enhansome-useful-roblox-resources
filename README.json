@@ -160,7 +160,7 @@
             "open_issues": 44,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 237,
+            "stars": 236,
             "topics": [
               "icons",
               "lua",
@@ -290,7 +290,7 @@
             "open_issues": 37,
             "owner": "1ForeverHD",
             "repo": "ZonePlus",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "area",
               "detection",
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-09T19:28:15Z",
-            "open_issues": 1226,
+            "last_commit": "2026-09-10T16:32:48Z",
+            "open_issues": 1228,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76131,
+            "stars": 76147,
             "topics": [
               "api",
               "cplusplus",
@@ -728,11 +728,11 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:18:55Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-10T19:19:12Z",
+            "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "lua",
               "roblox"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T16:08:22Z",
-                "open_issues": 502,
+                "last_commit": "2026-09-10T15:57:06Z",
+                "open_issues": 473,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24428,
+                "stars": 24452,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:45:12.530Z",
+    "last_updated": "2026-09-10T19:40:52.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
