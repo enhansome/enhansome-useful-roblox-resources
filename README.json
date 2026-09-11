@@ -617,10 +617,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-10T16:32:48Z",
-            "open_issues": 1228,
+            "open_issues": 1229,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76147,
+            "stars": 76159,
             "topics": [
               "api",
               "cplusplus",
@@ -706,7 +706,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "lua",
               "react",
@@ -728,8 +728,8 @@
             "id": 135337955,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-09-10T19:19:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-11T19:14:09Z",
+            "open_issues": 18,
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 525,
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T15:57:06Z",
-                "open_issues": 473,
+                "last_commit": "2026-09-11T11:03:10Z",
+                "open_issues": 468,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24452,
+                "stars": 24466,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1099,7 +1099,7 @@
                 "open_issues": 20,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "lua",
                   "react"
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:40:52.303Z",
+    "last_updated": "2026-09-11T19:41:48.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
