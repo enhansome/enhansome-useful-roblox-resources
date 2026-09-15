@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "lua",
               "roblox"
@@ -432,7 +432,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 147,
+            "open_issues": 148,
             "owner": "Kampfkarren",
             "repo": "Roblox",
             "stars": 391,
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-14T17:50:57Z",
-            "open_issues": 1230,
+            "last_commit": "2026-09-15T15:26:06Z",
+            "open_issues": 1232,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76196,
+            "stars": 76198,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "lua",
               "roblox"
@@ -1064,10 +1064,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-14T19:04:52Z",
-                "open_issues": 463,
+                "open_issues": 466,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24510,
+                "stars": 24526,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:56:16.936Z",
+    "last_updated": "2026-09-15T20:14:09.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
