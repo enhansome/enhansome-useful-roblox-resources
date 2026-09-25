@@ -459,7 +459,7 @@
             "open_issues": 3,
             "owner": "Sleitnick",
             "repo": "RbxCameraShaker",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-24T12:33:35Z",
-            "open_issues": 1223,
+            "last_commit": "2026-09-25T12:22:26Z",
+            "open_issues": 1226,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76340,
+            "stars": 76359,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 630,
+            "stars": 629,
             "topics": [
               "framework",
               "game",
@@ -893,7 +893,7 @@
             "open_issues": 2,
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -914,7 +914,7 @@
             "open_issues": 2,
             "owner": "rce-incorporated",
             "repo": "Fiu",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T20:01:03Z",
-                "open_issues": 457,
+                "last_commit": "2026-09-25T11:33:15Z",
+                "open_issues": 460,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24704,
+                "stars": 24719,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:29:14.124Z",
+    "last_updated": "2026-09-25T20:28:40.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
