@@ -213,7 +213,7 @@
             "open_issues": 2,
             "owner": "berezaa",
             "repo": "minershaven",
-            "stars": 180,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -432,7 +432,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "Kampfkarren",
             "repo": "Roblox",
             "stars": 393,
@@ -459,7 +459,7 @@
             "open_issues": 3,
             "owner": "Sleitnick",
             "repo": "RbxCameraShaker",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -620,7 +620,7 @@
             "open_issues": 1228,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76374,
+            "stars": 76393,
             "topics": [
               "api",
               "cplusplus",
@@ -685,7 +685,7 @@
             "open_issues": 47,
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -706,7 +706,7 @@
             "open_issues": 70,
             "owner": "Roblox",
             "repo": "roact",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "lua",
               "react",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T11:33:15Z",
-                "open_issues": 463,
+                "last_commit": "2026-09-27T14:36:57Z",
+                "open_issues": 466,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24732,
+                "stars": 24745,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:50:29.972Z",
+    "last_updated": "2026-09-27T20:08:36.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
