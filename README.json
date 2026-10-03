@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Documented on the thread, or here",
-          "description": null,
+          "description": "nidorx/roblox-dat-gui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "t-util",
-          "description": null,
+          "description": "loominatrx/t-util",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "loominatrx/t-util",
-          "description": null,
+          "description": "loominatrx/t-util",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,7 +401,7 @@
         {
           "node_type": "item",
           "title": "jaipack17/GuiCollisionService",
-          "description": null,
+          "description": "jaipack17/GuiCollisionService",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "EgizianoEG/String-Plus",
-          "description": null,
+          "description": "EgizianoEG/String-Plus",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -607,7 +607,7 @@
         {
           "node_type": "item",
           "title": "Immediate mode GUI Library for Roblox, Based on Dear ImGui",
-          "description": null,
+          "description": "ocornut/imgui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,7 +620,7 @@
             "open_issues": 1228,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76465,
+            "stars": 76469,
             "topics": [
               "api",
               "cplusplus",
@@ -789,7 +789,7 @@
         {
           "node_type": "item",
           "title": "buildthomas/Rain",
-          "description": null,
+          "description": "buildthomas/Rain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
         {
           "node_type": "item",
           "title": "rce-incorporated/Fiu",
-          "description": null,
+          "description": "rce-incorporated/Fiu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -996,7 +996,7 @@
         {
           "node_type": "item",
           "title": "ok-nick/LayoutUtil",
-          "description": null,
+          "description": "ok-nick/LayoutUtil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:42:38Z",
-                "open_issues": 455,
+                "last_commit": "2026-10-02T22:05:20Z",
+                "open_issues": 453,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24823,
+                "stars": 24825,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:18:56.709Z",
+    "last_updated": "2026-10-03T05:12:47.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
