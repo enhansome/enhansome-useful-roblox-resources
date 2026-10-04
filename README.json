@@ -432,10 +432,10 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 156,
+            "open_issues": 159,
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "lua",
               "roblox"
@@ -620,7 +620,7 @@
             "open_issues": 1229,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76478,
+            "stars": 76488,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "lua",
               "roblox"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T09:32:04Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-04T14:38:46Z",
+                "open_issues": 458,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24833,
+                "stars": 24852,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1099,7 +1099,7 @@
                 "open_issues": 20,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "lua",
                   "react"
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:49:38.346Z",
+    "last_updated": "2026-10-04T20:10:15.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
