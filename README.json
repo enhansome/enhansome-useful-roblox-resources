@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:42:56Z",
+            "last_commit": "2026-10-06T19:24:35Z",
             "open_issues": 1226,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76504,
+            "stars": 76506,
             "topics": [
               "api",
               "cplusplus",
@@ -1067,7 +1067,7 @@
                 "open_issues": 458,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24876,
+                "stars": 24881,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:20.519Z",
+    "last_updated": "2026-10-06T21:36:48.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
