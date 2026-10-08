@@ -139,7 +139,7 @@
             "open_issues": 5,
             "owner": "MadStudioRoblox",
             "repo": "ReplicaService",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -432,7 +432,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "Kampfkarren",
             "repo": "Roblox",
             "stars": 395,
@@ -620,7 +620,7 @@
             "open_issues": 1213,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76525,
+            "stars": 76547,
             "topics": [
               "api",
               "cplusplus",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T12:44:33Z",
-                "open_issues": 452,
+                "last_commit": "2026-10-08T07:31:53Z",
+                "open_issues": 457,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24894,
+                "stars": 24902,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:58:09.342Z",
+    "last_updated": "2026-10-08T22:03:22.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
