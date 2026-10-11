@@ -617,10 +617,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-07T18:36:37Z",
-            "open_issues": 1215,
+            "open_issues": 1216,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76574,
+            "stars": 76591,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 629,
+            "stars": 628,
             "topics": [
               "framework",
               "game",
@@ -732,7 +732,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "lua",
               "roblox"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T06:07:35Z",
-                "open_issues": 445,
+                "last_commit": "2026-10-11T14:37:51Z",
+                "open_issues": 454,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24929,
+                "stars": 24947,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:33:37.985Z",
+    "last_updated": "2026-10-11T20:57:30.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
