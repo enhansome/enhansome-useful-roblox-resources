@@ -160,7 +160,7 @@
             "open_issues": 43,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 240,
+            "stars": 239,
             "topics": [
               "icons",
               "lua",
@@ -435,7 +435,7 @@
             "open_issues": 162,
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "lua",
               "roblox"
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:38:19Z",
-            "open_issues": 1216,
+            "last_commit": "2026-10-14T16:37:39Z",
+            "open_issues": 1218,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76628,
+            "stars": 76647,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 17,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "lua",
               "roblox"
@@ -756,7 +756,7 @@
             "open_issues": 0,
             "owner": "imezx",
             "repo": "Warp",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -890,7 +890,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-10-07T03:22:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rce-incorporated",
             "repo": "Fiu",
             "stars": 174,
@@ -911,7 +911,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-10-07T03:22:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rce-incorporated",
             "repo": "Fiu",
             "stars": 174,
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T11:48:01Z",
-                "open_issues": 436,
+                "last_commit": "2026-10-14T12:08:16Z",
+                "open_issues": 430,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24987,
+                "stars": 25020,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1099,7 +1099,7 @@
                 "open_issues": 20,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "lua",
                   "react"
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:50:23.683Z",
+    "last_updated": "2026-10-14T20:40:49.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
