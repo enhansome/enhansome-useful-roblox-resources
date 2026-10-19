@@ -152,12 +152,12 @@
           "repo_info": {
             "archived": false,
             "description": "Construct dynamic and intuitive topbar icons. Enhance the appearance and behaviour of these icons with features such as themes, dropdowns and menus.",
-            "homepage": "https://devforum.roblox.com/t/topbarplus/1017485",
+            "homepage": "https://nanoblox.com/topbarplus/",
             "id": 326176984,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T16:40:14Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-19T21:12:18Z",
+            "open_issues": 24,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
             "stars": 241,
@@ -620,7 +620,7 @@
             "open_issues": 1222,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76717,
+            "stars": 76737,
             "topics": [
               "api",
               "cplusplus",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T14:38:07Z",
-                "open_issues": 433,
+                "last_commit": "2026-10-19T14:49:36Z",
+                "open_issues": 422,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25134,
+                "stars": 25150,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:24:57.706Z",
+    "last_updated": "2026-10-19T21:31:15.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
