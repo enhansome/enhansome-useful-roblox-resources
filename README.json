@@ -157,7 +157,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2026-10-20T16:07:30Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
             "stars": 244,
@@ -432,7 +432,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2023-06-27T20:10:45Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "Kampfkarren",
             "repo": "Roblox",
             "stars": 399,
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-28T14:41:31Z",
+            "last_commit": "2026-10-29T20:27:47Z",
             "open_issues": 1218,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 76866,
+            "stars": 76876,
             "topics": [
               "api",
               "cplusplus",
@@ -685,7 +685,7 @@
             "open_issues": 48,
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T17:05:05Z",
-                "open_issues": 405,
+                "last_commit": "2026-10-29T16:53:05Z",
+                "open_issues": 397,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25361,
+                "stars": 25378,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:38:16.620Z",
+    "last_updated": "2026-10-29T21:48:26.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
