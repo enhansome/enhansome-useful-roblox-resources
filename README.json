@@ -290,7 +290,7 @@
             "open_issues": 37,
             "owner": "1ForeverHD",
             "repo": "ZonePlus",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "area",
               "detection",
@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "lua",
               "roblox"
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-10T18:56:12Z",
-            "open_issues": 1213,
+            "last_commit": "2026-11-11T21:33:30Z",
+            "open_issues": 1215,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77048,
+            "stars": 77071,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "framework",
               "game",
@@ -685,7 +685,7 @@
             "open_issues": 49,
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -732,7 +732,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "lua",
               "roblox"
@@ -777,7 +777,7 @@
             "open_issues": 0,
             "owner": "buildthomas",
             "repo": "Rain",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "game",
               "rain",
@@ -802,7 +802,7 @@
             "open_issues": 0,
             "owner": "buildthomas",
             "repo": "Rain",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "game",
               "rain",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T16:56:20Z",
-                "open_issues": 350,
+                "last_commit": "2026-11-11T14:01:13Z",
+                "open_issues": 353,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25687,
+                "stars": 25709,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:21:26.127Z",
+    "last_updated": "2026-11-11T23:27:10.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
