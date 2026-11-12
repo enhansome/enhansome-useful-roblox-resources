@@ -118,7 +118,7 @@
             "open_issues": 12,
             "owner": "MadStudioRoblox",
             "repo": "ProfileService",
-            "stars": 333,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "lua",
               "roblox"
@@ -435,7 +435,7 @@
             "open_issues": 168,
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 403,
+            "stars": 405,
             "topics": [
               "lua",
               "roblox"
@@ -491,7 +491,7 @@
           "description": ", DevForum thread) xSwezan (DevForum, GitHub) Search for Instance with specific criteria WIP If you need a replacement of Roblox's FindFirstChild or even FindFirstChildOfClass, then this one is for you, I guess...Looking at the source code, it is easy to use as well!",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Search for Instances easily!",
             "homepage": null,
             "id": 584202129,
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:33:30Z",
-            "open_issues": 1215,
+            "last_commit": "2026-11-12T16:41:03Z",
+            "open_issues": 1216,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77071,
+            "stars": 77082,
             "topics": [
               "api",
               "cplusplus",
@@ -732,7 +732,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "lua",
               "roblox"
@@ -773,7 +773,7 @@
             "id": 138954517,
             "language": "Luau",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T01:49:25Z",
+            "last_commit": "2026-11-12T14:01:56Z",
             "open_issues": 0,
             "owner": "buildthomas",
             "repo": "Rain",
@@ -798,7 +798,7 @@
             "id": 138954517,
             "language": "Luau",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T01:49:25Z",
+            "last_commit": "2026-11-12T14:01:56Z",
             "open_issues": 0,
             "owner": "buildthomas",
             "repo": "Rain",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T14:01:13Z",
-                "open_issues": 353,
+                "last_commit": "2026-11-12T19:12:00Z",
+                "open_issues": 350,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25709,
+                "stars": 25728,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:27:10.511Z",
+    "last_updated": "2026-11-12T22:42:53.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
