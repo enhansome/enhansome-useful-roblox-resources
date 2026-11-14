@@ -156,7 +156,7 @@
             "id": 326176984,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T21:55:59Z",
+            "last_commit": "2026-11-13T23:14:42Z",
             "open_issues": 12,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 356,
+            "stars": 355,
             "topics": [
               "lua",
               "roblox"
@@ -617,10 +617,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-13T17:18:33Z",
-            "open_issues": 1215,
+            "open_issues": 1214,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77089,
+            "stars": 77099,
             "topics": [
               "api",
               "cplusplus",
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T18:23:45Z",
-                "open_issues": 349,
+                "last_commit": "2026-11-14T06:04:58Z",
+                "open_issues": 353,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25747,
+                "stars": 25758,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:35:32.208Z",
+    "last_updated": "2026-11-14T21:27:34.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
