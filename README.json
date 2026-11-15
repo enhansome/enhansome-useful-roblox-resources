@@ -118,7 +118,7 @@
             "open_issues": 12,
             "owner": "MadStudioRoblox",
             "repo": "ProfileService",
-            "stars": 332,
+            "stars": 330,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -156,11 +156,11 @@
             "id": 326176984,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T23:14:42Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-15T02:19:33Z",
+            "open_issues": 3,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 247,
+            "stars": 249,
             "topics": [
               "icons",
               "lua",
@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 355,
+            "stars": 357,
             "topics": [
               "lua",
               "roblox"
@@ -620,7 +620,7 @@
             "open_issues": 1214,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77099,
+            "stars": 77120,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "framework",
               "game",
@@ -685,7 +685,7 @@
             "open_issues": 49,
             "owner": "Sleitnick",
             "repo": "RbxUtil",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -732,7 +732,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 546,
+            "stars": 548,
             "topics": [
               "lua",
               "roblox"
@@ -1063,11 +1063,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T06:04:58Z",
-                "open_issues": 353,
+                "last_commit": "2026-11-15T14:44:18Z",
+                "open_issues": 360,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25758,
+                "stars": 25778,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:27:34.306Z",
+    "last_updated": "2026-11-15T21:46:55.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
