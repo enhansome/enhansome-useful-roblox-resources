@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:18:33Z",
-            "open_issues": 1214,
+            "last_commit": "2026-11-16T17:33:51Z",
+            "open_issues": 1211,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77120,
+            "stars": 77138,
             "topics": [
               "api",
               "cplusplus",
@@ -806,30 +806,6 @@
             "topics": [
               "game",
               "rain",
-              "roblox"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:04.328Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Color (GitHub repo",
-          "description": ", DevForum thread) Author (DevForum, GitHub) Roblox Luau library for color management and manipulation, inspired by chroma.js. Docs -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Roblox Luau library for color management and manipulation",
-            "homepage": "https://blupo.github.io/Color",
-            "id": 381116756,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2024-01-04T20:00:21Z",
-            "open_issues": 0,
-            "owner": "Blupo",
-            "repo": "Color",
-            "stars": 7,
-            "topics": [
-              "color",
               "roblox"
             ]
           },
@@ -1063,11 +1039,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T14:44:18Z",
-                "open_issues": 360,
+                "last_commit": "2026-11-16T23:02:31Z",
+                "open_issues": 334,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25778,
+                "stars": 25796,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1193,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:46:55.642Z",
+    "last_updated": "2026-11-17T00:47:22.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
