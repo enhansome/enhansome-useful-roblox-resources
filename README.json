@@ -160,7 +160,7 @@
             "open_issues": 3,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 249,
+            "stars": 250,
             "topics": [
               "icons",
               "lua",
@@ -435,7 +435,7 @@
             "open_issues": 171,
             "owner": "Kampfkarren",
             "repo": "Roblox",
-            "stars": 406,
+            "stars": 408,
             "topics": [
               "lua",
               "roblox"
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:33:51Z",
+            "last_commit": "2026-11-18T21:59:42Z",
             "open_issues": 1212,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77149,
+            "stars": 77162,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "framework",
               "game",
@@ -1039,11 +1039,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T15:27:41Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-18T13:39:06Z",
+                "open_issues": 324,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25824,
+                "stars": 25850,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1075,7 +1075,7 @@
                 "open_issues": 21,
                 "owner": "jsdotlua",
                 "repo": "react-lua",
-                "stars": 583,
+                "stars": 584,
                 "topics": [
                   "lua",
                   "react"
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:50:31.683Z",
+    "last_updated": "2026-11-18T23:22:28.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
@@ -1181,7 +1181,7 @@
       "open_issues": 2,
       "owner": "loominatrx",
       "repo": "useful-roblox-resources",
-      "stars": 115,
+      "stars": 116,
       "topics": [
         "awesome-list",
         "hacktoberfest",
