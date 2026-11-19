@@ -160,7 +160,7 @@
             "open_issues": 3,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "icons",
               "lua",
@@ -620,7 +620,7 @@
             "open_issues": 1212,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77162,
+            "stars": 77183,
             "topics": [
               "api",
               "cplusplus",
@@ -657,7 +657,7 @@
             "open_issues": 0,
             "owner": "Sleitnick",
             "repo": "Knit",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "framework",
               "game",
@@ -732,7 +732,7 @@
             "open_issues": 19,
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "lua",
               "roblox"
@@ -756,7 +756,7 @@
             "open_issues": 0,
             "owner": "imezx",
             "repo": "Warp",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -1039,11 +1039,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T13:39:06Z",
-                "open_issues": 324,
+                "last_commit": "2026-11-19T17:12:55Z",
+                "open_issues": 311,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25850,
+                "stars": 25869,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:22:28.616Z",
+    "last_updated": "2026-11-19T23:33:53.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
