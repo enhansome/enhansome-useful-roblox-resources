@@ -160,7 +160,7 @@
             "open_issues": 4,
             "owner": "1ForeverHD",
             "repo": "TopbarPlus",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "icons",
               "lua",
@@ -290,7 +290,7 @@
             "open_issues": 37,
             "owner": "1ForeverHD",
             "repo": "ZonePlus",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "area",
               "detection",
@@ -340,7 +340,7 @@
             "open_issues": 13,
             "owner": "evaera",
             "repo": "roblox-lua-promise",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "lua",
               "roblox"
@@ -616,11 +616,11 @@
             "id": 22067521,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-23T17:46:46Z",
-            "open_issues": 1214,
+            "last_commit": "2026-11-24T19:16:48Z",
+            "open_issues": 1211,
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 77222,
+            "stars": 77235,
             "topics": [
               "api",
               "cplusplus",
@@ -729,7 +729,7 @@
             "language": "Luau",
             "license": "MIT",
             "last_commit": "2026-10-21T21:27:05Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "evaera",
             "repo": "Cmdr",
             "stars": 553,
@@ -1039,11 +1039,11 @@
                 "id": 270722949,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T15:27:01Z",
-                "open_issues": 303,
+                "last_commit": "2026-11-24T21:20:35Z",
+                "open_issues": 291,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 25963,
+                "stars": 25985,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1159,7 +1159,7 @@
             "open_issues": 4,
             "owner": "Corecii",
             "repo": "Transparent-Pixel-Fix",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:04.328Z"
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:19:27.728Z",
+    "last_updated": "2026-11-25T01:24:49.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of useful Roblox development resources for your personal and team project.",
